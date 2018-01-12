@@ -1,2 +1,2 @@
-# PluginAPI
-Teamspeak 3 Plugin API (C)
+# ClientSDK
+Teamspeak 3 Client SDK (C)
